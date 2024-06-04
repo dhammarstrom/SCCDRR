@@ -1,0 +1,27 @@
+# A workflow for a scientific paper
+A scientific paper (or a thesis) is reproducible if the data, code and documentation is available.
+
+
+### The repository 
+Organizing the repository is important for collaboration and communication
+
+#### README
+
+#### Folder structure
+
+##### `data`
+
+#### `R`
+
+#### `derived-data`
+
+#### `figures`
+
+#### `docs`
+
+#### `resources`
+
+### Structuring code in different scripts
+
+
+

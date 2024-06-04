@@ -1,0 +1,8 @@
+# Documenting your package
+
+## Vignettes
+The paper as a vignette
+
+See e.g. https://www.rpubs.com/YaRrr/rpackageintro 
+
+

@@ -1,0 +1,48 @@
+project:
+  type: book
+
+book:
+  title: "Scientific Communication, Collaboration and Design in Quantitative Research Using R"
+  author: "Daniel Hammarström"
+  date: "2024-06-04"
+  chapters:
+    - index.qmd
+    - part: visualization.qmd
+      chapters: 
+        - viz-grammar.qmd
+        - viz-before-plotting.qmd
+        - viz-examples.qmd
+        - viz-sci-viz.qmd
+        - viz-beyond-sci-viz.qmd
+    - part: version-control.qmd
+      chapters:
+        - ver-git.qmd
+        - ver-workflow.qmd
+        - ver-quarto.qmd
+        - ver-advanced.qmd
+    - part: distribution.qmd
+      chapters: 
+        - dist-packages.qmd
+        - dist-data-packages.qmd
+        - dist-documentation.qmd
+        - dist-sharing.qmd
+    - part: simulations.qmd
+      chapters:
+      - sim-causality.qmd
+      - sim-dag.qmd
+      - sim-random-numbers.qmd
+      - sim-simulations-studies.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

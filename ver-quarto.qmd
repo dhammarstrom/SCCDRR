@@ -1,0 +1,12 @@
+# Authoring quarto documents
+Quarto 
+
+
+### Code chunks
+
+
+
+
+#### A style guide for scientific coding
+
+We adhere to the [tidyverse style guide](https://style.tidyverse.org/). The following is a summary of the most important points with some modifications.
